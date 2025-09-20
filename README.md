@@ -29,7 +29,7 @@ This project was a fun exercise to explore how basic rules of attraction and rep
 - **Hard-coded anchor points**: The anchor points of the rope must be manually defined in the code.
     
 ---
-### Sample images:
+### Sample image:
 ![Static Rope](Sample/rope.png)
 
 - gifs provided in `Sample` directory.
