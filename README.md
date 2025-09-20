@@ -32,9 +32,7 @@ This project was a fun exercise to explore how basic rules of attraction and rep
 ### Sample images:
 ![Static Rope](Sample/rope.png)
 
-![Rope gif 1](Sample/rope1.gif)
-
-![Rope gif 2](Sample/rope2.gif)
+- gifs provided in `Sample` directory.
 
 ---
 ### How to Run
