@@ -1,6 +1,6 @@
 # **Pygame Rope Simulation**
 
-A simple 2D physics simulation of a rope using individual particles and simple attraction and repulsion in Pygame. 
+A simple 2D physics emulation of a rope using individual particles with simple attraction and repulsion in Pygame. 
 This project was a fun exercise to explore how basic rules of attraction and repulsion, combined with constraints, could create a realistic-looking rope with tension and elasticity. While the simulation isn't physically accurate and has several limitations, it provides an interesting visual representation of these concepts.
 
 ---
